@@ -26,14 +26,5 @@ app.listen(port, () => {
 })
 
 
-/*
-POST
-curl --data "name=arnav&email=arnav@gmail.com" http://localhost:3000/users
 
-PUT
-curl -X PUT -d "name=arnav" -d "email=arnav@gmail.com" http://localhost:3000/users/1
-
-curl -X "DELETE" http://localhost:3000/users/1
-
-*/
 
